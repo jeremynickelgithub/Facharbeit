@@ -15,7 +15,7 @@ documentclass: scrreprt
 
 # Introduction
 
-"This is a quote." [@nagy2018discovery]
+"This is a quote."
 
 # Second Chapter
 
@@ -25,7 +25,7 @@ Lorem Ipsum dunkel wars der Mond schien auf der grünen Flur als ein Wagen langs
 This is the first sub-chapter of 2...
 
 ## Second chapter second sub-chapter
-...And this is the second one
+...And this is the second one [@melville1892moby, p. 25]
 
 # Conclusion
 You get the point, right?
