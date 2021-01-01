@@ -19,7 +19,7 @@ documentclass: scrreprt
 
 # Second Chapter
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Lorem Ipsum dunkel wars der Mond schien auf der grünen Flur als ein Wagen langsam blitzschnell um die Ecke fuhr. Im Wagen saßen stehend Leute, schweigend im Gespräch vertieft, als ein totgeschosseneer Hase auf der Sandbank schlittschuh lief.
 
 ## Second chapter first sub-chapter
 This is the first sub-chapter of 2...
