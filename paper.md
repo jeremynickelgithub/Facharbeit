@@ -1,5 +1,5 @@
 ---
-title: Oil: treasure or poison? 
+title: Oil treasure or poison? 
 subtitle: A comparison between oil rich Nigeria and oil free Namibia
 author: Jeremy Nickel
 date: 2020-01-01
