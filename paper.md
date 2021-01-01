@@ -25,8 +25,6 @@ documentclass: scrreprt
 # 1. Introduction
 "This is a quote."
 
-![](pictures/sea.jpg)
-
 # 2. Second Chapter
 
 Lorem Ipsum dunkel wars der Mond schien auf der grünen Flur als ein Wagen langsam blitzschnell um die Ecke fuhr. Im Wagen saßen stehend Leute, schweigend im Gespräch vertieft, als ein totgeschosseneer Hase auf der Sandbank schlittschuh lief.
