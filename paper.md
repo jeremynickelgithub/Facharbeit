@@ -1,8 +1,8 @@
 ---
-title: Your title
-subtitle: A brief description
-author: Jon Doe
-date: 2020-11-11
+title: Oil: treasure or poison? 
+subtitle: A comparison between oil rich Nigeria and oil free Namibia
+author: Jeremy Nickel
+date: 2020-01-01
 fontsize: 11pt
 numbersections: true
 geometry: margin=2cm
