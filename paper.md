@@ -27,8 +27,7 @@ documentclass: scrreprt
 
 # 2. Second Chapter
 
-Lorem Ipsum dunkel wars der Mond schien auf der grünen Flur als ein Wagen langsam blitzschnell um die Ecke fuhr. Im Wagen saßen stehend Leute, schweigend im Gespräch vertieft, als ein totgeschosseneer Hase auf der Sandbank schlittschuh lief.
-
+Hier wird am Ende der Schreibphase die Facharbeit von Jeremy Nickel stehen. Bis dahin können Sie meine Fortschritte aufmerksam auf dieser Website beobachten
 ## 2.1. Second chapter first sub-chapter
 This is the first sub-chapter of 2...
 
