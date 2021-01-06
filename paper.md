@@ -28,6 +28,9 @@ documentclass: scrreprt
 # 2. Second Chapter
 
 Hier wird am Ende der Schreibphase die Facharbeit von Jeremy Nickel stehen. Bis dahin können Sie meine Fortschritte aufmerksam auf dieser Website beobachten
+Catching interest: 
+Oil extraction recently began in Namibia so it is important to have a look at other countries, where crude oil is already being 
+extracted, to see what possible effects the presence of Oil will have on the Namibian living standard. 
 ## 2.1. Second chapter first sub-chapter
 This is the first sub-chapter of 2...
 
