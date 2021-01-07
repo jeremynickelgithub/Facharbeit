@@ -17,7 +17,7 @@ documentclass: scrreprt
 - [1. Introduction](#1-introduction)
 - [2. Second Chapter](#2-second-chapter)
   - [2.1. Second chapter first sub-chapter](#21-second-chapter-first-sub-chapter)
-- [2.2. Second chapter second sub-chapter](#22-second-chapter-second-sub-chapter)
+  - [2.2. Second chapter second sub-chapter](#22-second-chapter-second-sub-chapter)
 - [3. Conclusion](#3-conclusion)
 - [4. References](#4-references)
 
@@ -31,7 +31,7 @@ Hier wird am Ende der Schreibphase die Facharbeit von Jeremy Nickel stehen. Bis 
 ## 2.1. Second chapter first sub-chapter
 This is the first sub-chapter of 2...
 
-# 2.2. Second chapter second sub-chapter
+## 2.2. Second chapter second sub-chapter
 ...And this is the second one [@melville1892moby, p. 25]
 
 # 3. Conclusion
