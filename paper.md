@@ -28,6 +28,7 @@ documentclass: scrreprt
 # 2. Second Chapter
 
 Hier wird am Ende der Schreibphase die Facharbeit von Jeremy Nickel stehen. Bis dahin können Sie meine Fortschritte aufmerksam auf dieser Website beobachten
+
 ## 2.1. Second chapter first sub-chapter
 This is the first sub-chapter of 2...
 
