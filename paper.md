@@ -23,7 +23,7 @@ documentclass: scrreprt
 
 
 # 1. Introduction
-"This is a quote."
+In late December 2020 Reconnaissance Energy Africa officially started exploratory drilling in the Kovango Region. The Region has the highest rainfall in Namibia and therefore a high potential for agricultural development but also the highest poverty rate in Nigeria due to its poorly developed infrastructure, as well as "inadequate health and educational facilities"
 
 # 2. Second Chapter
 
@@ -39,3 +39,4 @@ This is the first sub-chapter of 2...
 You get the point, right?
 
 # 4. References
+New Era: Poverty rates remain high in Kavango West - John Muyamba
