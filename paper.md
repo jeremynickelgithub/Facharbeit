@@ -17,6 +17,7 @@ documentclass: scrreprt
 - [1. Introduction](#1-introduction)
 - [2. Main Part](#2-main-part)
 - [2.1 The Origin of Nigeria´s dependency on oil extraction](#21-the-origin-of-nigerias-dependency-on-oil-extraction)
+- [2.2 The negative effects of the “Dutch Disease”](#22-the-negative-effects-of-the-dutch-disease)
 - [3. Conclusion](#3-conclusion)
 - [4. Bibliography](#4-bibliography)
 
@@ -34,7 +35,8 @@ Since Nigeria gained its independence in 1960 from Britain, the country has been
 # 2.1 The Origin of Nigeria´s dependency on oil extraction 
 When crude oil in the Niger-Delta was first discovered in 1958 it quickly became Nigeria´s most important form of government revenue. Its impact on all sectors of the economy only expanded when the prices of crude oil skyrocketed in 1973 by 158% and in 1979 by 118% again. After the second economic boom, Nigeria “evolved from a poor agricultural economy into a relatively rich, oil-dominated one” (Economic crossroads: The experiences of Nigeria and lessons from Malaysia). The export revenue of oil accounted for 96% of all exports and 30% of Nigeria´s GDP in 1980. 
 “Dutch Disease” is a term that perfectly describes this form of inorganic increase in government revenue. This mostly happens when a country has a predominant economic sector that experiences an explosive growth because of an increase in global demand. This economic model was first described in the weekly newspaper The Economist in 1977. It analysed how the discovery of 2.8trn cubic meters of natural gas overvalued the Dutch currency and thereby harmed the Dutch economy.
-
+Because of the economic growth correlated to the oil, the Nigerian government stopped investments in the agricultural sector, which employed more than 60% of Nigeria´s total labour force in order to allocate more jobs into the high paying oil sector. With this reform of the economy came Nigeria´s dependency on the export of crude oil and its volatility on the unpredictable price of oil.
+# 2.2 The negative effects of the “Dutch Disease”
 # 3. Conclusion
 
 # 4. Bibliography
