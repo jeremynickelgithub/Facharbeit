@@ -18,6 +18,7 @@ documentclass: scrreprt
 - [2. Main Part](#2-main-part)
 - [2.1 The Origin of Nigeria´s dependency on oil extraction](#21-the-origin-of-nigerias-dependency-on-oil-extraction)
 - [2.2 The negative effects of the “Dutch Disease”](#22-the-negative-effects-of-the-dutch-disease)
+- [2.3 How does Namibia´s economy compare to Nigeria?](#23-how-does-namibias-economy-compare-to-nigeria)
 - [3. Conclusion](#3-conclusion)
 - [4. Bibliography](#4-bibliography)
 
@@ -39,6 +40,9 @@ Because of the economic growth correlated to the oil, the Nigerian government st
 
 # 2.2 The negative effects of the “Dutch Disease”
 As Zuzana Brinčíková states in her article “The Dutch Disease: An Overview”, published in 2016 by the European Scientific Journal, the effects of the “Dutch-Disease” differ relative to the exchange rate mechanism of a country. The rate of exchange Nigeria used until 1986 was a fixed one, meaning that the Nigerian Naira was based on the international price of gold. This meant that with a rise in the price of gold came an upswing in the value of the Nigerian currency and vice-versa. Brinčíková writes that in fixed exchange systems “large inflows of foreign currency will increase the money supply and domestic prices”. This results in an economic domino effect, causing the traditional exports to become more and more expensive for other countries to buy because of the higher monetary supply. Another effect of the Dutch Disease is the reduction of its secondary economic sector. This happens because foreign produced goods remain at a low price while products that were manufactured in the “infected country” become more expensive to pay for the higher wages. This gives imported products an advantage over home made ones, causing the secondary sector of its own economy to cripple. In 1975 Nigeria´s secondary sector was only responsible for 10.4% of its annual GDP, whereas its primary sector, that includes the extraction of raw materials made up 68.9% of Nigeria´s GDP. The dependency on the oil sector that comes with the decline of alternative forms of revenue caused the Nigerian government to spiral out of control trying to generate revenue to build infrastructure and other long-term investments by locating more workforce to foreign oil companies like Shell, which in return only made the country more dependent on petroleum exports and the interest of oil companies.  
+
+# 2.3 How does Namibia´s economy compare to Nigeria?
+In this chapter I will manly compare both economies against each other based on empirical data like Gross Domestic Product and Human Development Index. I will not take indicators like Gross National Happiness, which can vary in cultures into consideration. To start with, a big difference in both economies is the distribution of economic sectors. Whereas Nigeria´s agricultural sector is much more involved in its GDP with 21.91% in 2019 (WB), the Namibian agriculture only makes up for 6.61% (WB)of its annual GDP. This is mostly due to Namibia´s poor geographical conditions because 64% of the countries surface is covered by the Sahara-Desert making it impossible for non-desert crops to grow there. 
 
 # 3. Conclusion
 
