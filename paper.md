@@ -24,13 +24,12 @@ documentclass: scrreprt
 
 
 # 1. Introduction
-
-# 2. Main Part
 Reconnaissance Energy Africa (ReconAfrica), a Canadian junior oil and gas company started exploratory oil drillings on January 11th, 2021 in the Okavango region in Namibia, which is a north-western area around the Okavango river. It is home to many endangered animals and the only conjunct area in Namibia that can be used for agricultural development because it has the highest rainfall in Namibia, which is mostly a desert state. Therefore, it is highly important to protect the ecosystem against oil related destruction of nature such as in the Niger-Delta, Nigeria. 
 Not only did I choose this topic because it is a very recent one, which can still be influenced upon but also because it is a prime example for a conflict that is not exclusive to a distant African country but one that happens all around the globe and is a fundamental question in economy:
 What do we preserve? The economic growth that comes from the exploitation of our natural resources, or the fragile nature on our planet to secure habitability for future generations   
 In this essay I will discuss if a compromise between the conservation of the Okavango region and economic growth through the export of oil are an achievable goal. I will also discuss which measures must be taken to prevent the destruction of ecosystems in Nigeria by avoiding the mistakes that were made by the Nigerian government and the big oil companies in the Niger-Delta.  
 
+# 2. Main Part
 Since Nigeria gained its independence in 1960 from Britain, the country has been hit by many socio-ecological setbacks such as military coups, civil wars and ethnic conflicts. While not all these problems arise from Nigeria´s oil-rich geographical conditions, a lot of issues regarding the unjust distribution of wealth, high rate in criminal- and terrorist activities and corruption can be traced back to the extraction of crude oil and its impacts on Nigeria.
 
 # 2.1 The Origin of Nigeria´s dependency on oil extraction 
