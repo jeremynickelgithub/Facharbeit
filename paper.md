@@ -25,6 +25,7 @@ documentclass: scrreprt
 - [2.7 What Effects Would Oil Drillings Have on the Kavango Region?](#27-what-effects-would-oil-drillings-have-on-the-kavango-region)
 - [3. Conclusion](#3-conclusion)
 - [4. Bibliography](#4-bibliography)
+- [5. Appendix](#5-appendix)
 
 
 # 1. Introduction
@@ -105,6 +106,6 @@ Shikongo, Arlana (February 1, 2021): ReconAfrica adviser calls oil-drilling conc
 
 Musheko, Tuyakula (February 16, 2021): Canadian oil driller threatens to sue The Namibian. https://www.namibian.com.na/99009/read/Canadian-oil-driller-threatens-to-sue-The-Namibian. February 17, 2021.
 
-#5. Appendix
+# 5. Appendix
 I.  https://www.youtube.com/watch?v=oihOnpsWEus&feature=youtu.be
 II. https://www.youtube.com/watch?v=lsWt42ndfzuOc4
